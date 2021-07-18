@@ -1,0 +1,170 @@
+.calendar-drawer .MuiListItemIcon-root {
+	min-width: none;
+}
+
+.main-page .makeStyles-content-8 {
+	padding: 52px 0px;
+	flex-grow: 1;
+	background-color: #121212;
+}
+
+.main-page .MuiPaper-root {
+	background-color: #121212;
+}
+
+.main-page .makeStyles-background-58 {
+	background-color: #121212;
+}
+
+.main-page .makeStyles-flexRow-55 {
+	background-color: #121212;
+}
+
+.main-page .makeStyles-dayScaleEmptyCell-60 {
+	background-color: #121212;
+}
+
+.main-page .Cell-dayOfWeek-66 {
+	color: #999999;
+	padding-left: 5px;
+}
+
+.main-page .Cell-dayOfMonth-67 {
+	color: #999999 !important;
+	font-weight: 700;
+}
+.main-page .Label-text-79 {
+	color: #6666 !important;
+}
+.main-page .Cell-dayView-69 {
+	flex-direction: row-reverse;
+	display: flex;
+	align-items: baseline;
+	justify-content: flex-end;
+	padding: 0px 10px;
+}
+.main-page .makeStyles-cell-87 {
+	border-right: 1px solid #080808;
+}
+
+.main-page .MuiTableCell-root {
+	border-bottom: 1px solid #080808;
+}
+
+.main-page .makeStyles-ordinaryLeftPanelBorder-50 {
+	border-right: 1px solid #080808 !important;
+}
+
+.main-page .makeStyles-ordinaryHeaderBorder-52 {
+	border-bottom: none;
+}
+
+.main-page .Toolbar-toolbar-34 {
+	border-bottom: 1px solid #080808;
+}
+
+.main-page .makeStyles-brightHeaderBorder-53 {
+	border-bottom: none;
+}
+
+.main-page .makeStyles-appointment-659 {
+	background-color: rgba(255, 255, 255, 0.12);
+	border: none;
+}
+.main-page .VerticalAppointment-container-675 {
+	color: #9999;
+}
+
+.main-page .AppointmentsContainer-container-652 > div:nth-child(3n + 1) {
+	border-left: 4px solid #df7833;
+	border-radius: 8px;
+}
+
+.main-page .AppointmentsContainer-container-652 > div:nth-child(3n + 2) {
+	border-left: 4px solid #03ae73;
+	border-radius: 8px;
+}
+.main-page .AppointmentsContainer-container-652 > div:nth-child(3n + 3) {
+	border-left: 4px solid #c24040;
+	border-radius: 8px;
+}
+
+.main-page .makeStyles-appointment-664:hover {
+	background-color: rgb(90 90 90 / 12%);
+}
+
+.main-page .makeStyles-appointment-659:hover {
+	background-color: rgb(133 133 133 / 12%);
+}
+
+.Header-head-707 {
+	background: #282828;
+}
+.makeStyles-content-710 {
+	background-color: #282828 !important;
+}
+.Layout-popover-653 {
+	background-color: unset !important;
+	width: 257px !important;
+	border-radius: 2px !important;
+}
+
+.makeStyles-title-712 {
+	color: #fff !important;
+	font-size: 14px !important;
+}
+
+.MuiPopover-paper .MuiSvgIcon-root {
+	width: 13px !important;
+}
+
+.Header-flexContainer-709 {
+	flex-direction: row-reverse !important;
+}
+
+.Header-line-708 {
+	display: none;
+}
+
+.MuiIconButton-root {
+	padding: 5px !important;
+}
+
+.makeStyles-dateAndTitle-717 {
+	font-size: 11px;
+	color: #a1a1a1;
+}
+
+.MuiGrid-grid-xs-2 {
+	display: none;
+}
+.makeStyles-content-710 {
+	padding: 12px 16px !important;
+}
+
+.makeStyles-text-711 {
+	color: #636363;
+}
+
+.VerticalAppointment-title-666 {
+	color: #fff;
+	font-size: 10px;
+}
+
+.VerticalAppointment-time-669 {
+	font-size: 8px;
+}
+
+.calendar-drawer div:nth-child(2) {
+	background-color: #0f6ebe26;
+	border-left: 2px solid #0f6ebe;
+}
+
+.MuiFab-secondary {
+	display: none !important;
+}
+
+/* .main-page .AppointmentsContainer-container-652 >div >div:nth-child(2):h{
+background-color: #0f6ebe26;
+    border-left: 2px solid #0f6ebe;
+} */
